@@ -1,0 +1,147 @@
+.Table {
+    padding-top: 10px;
+    background-color: #4CB357;
+
+}
+
+.name {
+
+    padding-left: 30px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.about {
+    padding-left: 500px;
+    text-align: right;
+    font-size: 30px;
+}
+
+.Projects {
+    padding-right: 5px;
+    text-align: right;
+    font-size: 30px;
+}
+
+.contact {
+    padding-left: 1px;
+    text-align: right;
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+
+
+
+.hi {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.aboutme {
+    padding-top: 10px;
+    padding-bottom: 1px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.photoone {
+    padding: bottom 10px;
+    padding-top: 1px;
+    padding-right: 20px;
+    width: 500px;
+    height: 900px;
+}
+
+.des {
+    margin-top: 5px;
+    padding-bottom: 100px;
+    padding-right: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+.proj {
+    padding-top: 41px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.pro {
+    padding-top: 1px;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+.adphoto {
+    padding-left: 600px;
+    padding-bottom: 30px;
+}
+
+.signin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.con {
+    padding-top: 1px;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+form {
+    color: white;
+    text-align: center;
+}
+
+.aq {
+    overflow: hidden;
+    list-style-type: none;
+    color: blue;
+    font-style: italic;
+    display: block;
+    font-family: sans-serif;
+
+}
+
+.ab {
+    overflow: hidden;
+    list-style-type: none;
+    color: blue;
+    font-style: italic;
+    display: block;
+    font-family: sans-serif;
+}
+
+.ac {
+    overflow: hidden;
+    list-style-type: none;
+    color: blue;
+    font-style: italic;
+    display: block;
+    font-family: sans-serif;
+
+}
+
+footer {
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
